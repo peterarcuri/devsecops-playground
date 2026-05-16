@@ -17,18 +17,14 @@ A structured DevSecOps engineering portfolio documenting:
 |---|---|
 | phase-1-linux-hardening-audit-tool | Linux Security |
 | phase-1-network-recon-security-scanner | Networking |
-| phase-1-owasp-smoke-testing-framework | AppSec |
-| phase-1-secure-nginx-reverse-proxy-lab |Reverse Proxy Security & TLS |
-|
-| phase-2-secure-ci-cd-pipeline  | CI/CD Automation & DevSecOps |
-| phase-2-dockerized-secure-app  | Containerization & Docker Security |
-│
-| phase-3-security-scanning-pipeline  | SAST, DAST & Software Composition Analysis (SCA) |
-│
-| phase-4-terraform-secure-aws-infrastructure  | Infrastructure as Code (IaC) & Cloud Security |
-| phase-4-kubernetes-secure-cluster  | Kubernetes Security & Container Orchestration |
-│
-| phase-5-monitoring-observability-stack  | Monitoring, Logging & Runtime Security |
+| phase-1-owasp-smoke-testing-framework | Application Security (AppSec) |
+| phase-1-secure-nginx-reverse-proxy-lab | Reverse Proxy Security & TLS |
+| phase-2-secure-ci-cd-pipeline | CI/CD Automation & DevSecOps |
+| phase-2-dockerized-secure-app | Containerization & Docker Security |
+| phase-3-security-scanning-pipeline | SAST, DAST & Software Composition Analysis (SCA) |
+| phase-4-terraform-secure-aws-infrastructure | Infrastructure as Code (IaC) & Cloud Security |
+| phase-4-kubernetes-secure-cluster | Kubernetes Security & Container Orchestration |
+| phase-5-monitoring-observability-stack | Monitoring, Logging & Runtime Security |
 
 ---
 
