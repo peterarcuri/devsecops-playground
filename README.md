@@ -44,3 +44,20 @@ A structured DevSecOps engineering portfolio documenting:
 - Docker
 - CI/CD
 - GitHub Actions
+
+### Phase 3 — Security Integration
+- SAST
+- DAST
+- SCA
+- Secrets Management
+
+### Phase 4 — Cloud & IaC
+- Terraform
+- Kubernetes
+- AWS Security
+
+### Phase 5 — Monitoring & Detection
+- Prometheus
+- Grafana
+- ELK Stack
+- Falco
