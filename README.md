@@ -15,10 +15,11 @@ A structured DevSecOps engineering portfolio documenting:
 
 | Project | Focus | Status |
 |---|---|---|
-| [phase-1-linux-hardening-audit-tool](https://github.com/PeterArcuri/phase-1-linux-hardening-audit-tool) | Linux Security | In Progress |
-| [phase-1-network-recon-security-scanner](https://github.com/PeterArcuri/phase-1-network-recon-security-scanner) | Networking | In Progress |
+| [phase-1-linux-hardening-audit-tool](https://github.com/PeterArcuri/phase-1-linux-hardening-audit-tool) | Linux Security | Complete |
+| [phase-1-secure-nginx-reverse-proxy-lab](https://github.com/PeterArcuri/phase-1-secure-nginx-reverse-proxy-lab) | Reverse Proxy Security & TLS | Complete |
 | [phase-1-owasp-smoke-testing-framework](https://github.com/PeterArcuri/phase-1-owasp-smoke-testing-framework) | Application Security | In Progress |
-| [phase-1-secure-nginx-reverse-proxy-lab](https://github.com/PeterArcuri/phase-1-secure-nginx-reverse-proxy-lab) | Reverse Proxy Security & TLS | In Progress |
+| [phase-1-network-recon-security-scanner](https://github.com/PeterArcuri/phase-1-network-recon-security-scanner) | Networking | In Progress |
+
 
 ---
 
