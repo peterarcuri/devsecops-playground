@@ -24,7 +24,7 @@ A structured DevSecOps engineering portfolio documenting:
 |---|---|---|
 | [phase-2-git-workflow-pr-automation](https://github.com/peterarcuri/phase-2-git-workflow-pr-automation.git) | Git Workflow | Complete |
 | [phase-2-dockerized-secure-app](https://github.com/peterarcuri/phase-2-dockerized-secure-app.git) | Docker | Complete |
-| [phase-2-github-actions-secure-ci-pipeline](https://github.com/peterarcuri/phase-2-github-actions-secure-ci-pipeline.git) | GitHub Actions | In Progress |
+| [phase-2-github-actions-secure-ci-pipeline](https://github.com/peterarcuri/phase-2-github-actions-secure-ci-pipeline.git) | GitHub Actions | Complete |
 | [phase-2-jenkins-pipeline-lab](https://github.com/peterarcuri/phase-2-jenkins-pipeline-lab.git) | Jenkins | In Progress |
 
 
