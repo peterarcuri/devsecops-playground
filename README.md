@@ -27,6 +27,13 @@ A structured DevSecOps engineering portfolio documenting:
 | [phase-2-github-actions-secure-ci-pipeline](https://github.com/peterarcuri/phase-2-github-actions-secure-ci-pipeline.git) | GitHub Actions | Complete |
 | [phase-2-jenkins-pipeline-lab](https://github.com/peterarcuri/phase-2-jenkins-pipeline-lab.git) | Jenkins | Complete |
 
+| Project | Focus | Status |
+|---|---|---|
+| [phase-3-security-scanning-pipeline](https://github.com/peterarcuri/phase-3-security-scanning-pipeline.git) | Git Workflow | Complete |
+| [phase-3-secrets-management-lab](https://github.com/peterarcuri/phase-3-secrets-management-lab.git) | Docker | Complete |
+| [phase-3-container-image-security-scanner](https://github.com/peterarcuri/phase-3-container-image-security-scanner.git) | GitHub Actions | Complete |
+| [phase-3-secure-api-testing-lab](https://github.com/peterarcuri/phase-3-secure-api-testing-lab.git) | Jenkins | Complete |
+
 
 ---
 
