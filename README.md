@@ -38,10 +38,11 @@ A structured DevSecOps engineering portfolio documenting:
 - OWASP
 - Bash automation
 
-## 🚧 Phase 2
+## ✅ Phase 2
 - Docker
 - CI/CD
 - GitHub Actions
+- Jenkins
 
 ### Phase 3 — Security Integration
 - SAST
