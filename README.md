@@ -44,18 +44,18 @@ A structured DevSecOps engineering portfolio documenting:
 - GitHub Actions
 - Jenkins
 
-### Phase 3 — Security Integration
+### 🚧 Phase 3 — Security Integration
 - SAST
 - DAST
 - SCA
 - Secrets Management
 
-### Phase 4 — Cloud & IaC
+### 🚧 Phase 4 — Cloud & IaC
 - Terraform
 - Kubernetes
 - AWS Security
 
-### Phase 5 — Monitoring & Detection
+###  🚧 Phase 5 — Monitoring & Detection
 - Prometheus
 - Grafana
 - ELK Stack
